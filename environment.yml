@@ -5,6 +5,7 @@ channels:
   - conda-forge
   - defaults
 dependencies:
-  - python=3.10.6
+  - python=3.9.10
   - pytest=7.1.2
   - ipython=8.4.0
+  - pandas
